@@ -1,5 +1,5 @@
-Person_detection_yolov8custommodel
-YOLOv8segmentation_custom_train_model for people detection
+# Person_detection_yolov8custommodel
+# YOLOv8segmentation_custom_train_model for people detection
 
 You can download the dataset from here.
 
