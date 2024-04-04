@@ -13,8 +13,7 @@ You can download the dataset from [here](https://universe.roboflow.com/project-u
 To install the ultralytics package including all requirements in a Python>=3.8 environment with PyTorch>=1.8, use the following command:
 ```
 pip install ultralytics
-pip install Python >=3.8
-pip install torch>=1.8
+
 ```
 
 ## Usage
