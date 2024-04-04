@@ -13,6 +13,7 @@
 You can download the dataset from [here](https://universe.roboflow.com/project-uqpx7/people_segmentation_exo).
 
 To install the ultralytics package including all requirements in a Python>=3.8 environment with PyTorch>=1.8, use the following command:
+```bash
 pip install ultralytics
 
 ## Usage
